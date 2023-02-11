@@ -19,6 +19,8 @@ Thats create some inconsistences so I decided to don't use this dataset anymore.
 
 ## Source 🔗
 
-[Link to Kaggle][id/name] 
+[Link to Kaggle](hhttps://www.kaggle.com/datasets/datascientistanna/customers-dataset?resource=downloadgit)
 
-[id/name]: hhttps://www.kaggle.com/datasets/datascientistanna/customers-dataset?resource=downloadgit
+## THAT'S ME ! 
+
+⭐️ From [Alex Silva](https://www.linkedin.com/in/aleex-silva/)

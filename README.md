@@ -19,7 +19,7 @@ Thats create some inconsistences so I decided to don't use this dataset anymore.
 
 ## Source 🔗
 
-[Link to Kaggle](hhttps://www.kaggle.com/datasets/datascientistanna/customers-dataset?resource=downloadgit)
+[Link to Kaggle](https://www.kaggle.com/datasets/datascientistanna/customers-dataset?resource=download)
 
 ## THAT'S ME ! 
 
